@@ -2,7 +2,7 @@
 
 ---
 
-📘 Project Overview
+### 📘 Project Overview
 
 This is a multi-page Power BI dashboard built on a cleaned dataset of ~119K customer bookings (cleaned & preprocessed in Python).
 The dashboard turns raw hospitality booking data into a decision-grade analytics product that answers business questions across bookings, customers, hotels, and revenue loss. It is built for executive overviews and analyst deep dives with clear navigation: Overview → Hotel → Customer → Revenue → Drill Through.
@@ -158,7 +158,7 @@ Design — custom theming, KPI cards, and drill-through navigation for analyst w
 
 ### 🔗 Interactive Dashboard
 -📊 **Live Dashboard:** [**Click here**](https://app.powerbi.com/reportEmbed?reportId=b89059e0-536a-4e4d-aba2-b410510312a0&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde) --
--👉 [View on NovyPro](https://project.novypro.com/I9SBJA)
+👉 [View on NovyPro](https://project.novypro.com/I9SBJA)
 
 ---
 
